@@ -1,4 +1,3 @@
-import { useState } from "react";
 import Card from "./Card";
 import img1 from "./img/img1.jpg";
 import img2 from "./img/img2.jpg";
