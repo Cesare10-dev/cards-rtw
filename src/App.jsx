@@ -8,22 +8,22 @@ function App() {
   return (
     <div className="flex justify-center items-center h-screen gap-8 bg-gradient-to-r from-sky-300 to-sky-600">
       <Card
-        title="Joystick"
+        title="Console"
         description="PS4 joystick."
         image={img1}
         colors="green"
       />
       <Card
-        title="Joystick"
-        description="PS4 joystick."
+        title="Console"
+        description="Game Boy Color."
         image={img2}
-        colors="red"
+        colors="#eb2b2b"
       />
       <Card
-        title="Joystick"
-        description="PS4 joystick."
+        title="Console"
+        description="Xbox joystick."
         image={img3}
-        colors="pink"
+        colors="#eba428"
       />
     </div>
   );
